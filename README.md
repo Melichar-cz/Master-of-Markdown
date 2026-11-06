@@ -3,7 +3,7 @@
 Vítej ve světě automobilů! Tento projekt je věnován automobilům, jejich historii, výkonu a technologiím. Najdeš zde zajímavosti, přehled značek a informace o tom, co dělá auto výjimečným.
 
 „Auto není jen dopravní prostředek, ale také vášeň.“ 🏁
-🏎️ 1. Moje oblíbené automobilové značky
+1. Moje oblíbené automobilové značky
 
 Mezi nejzajímavější automobilové značky podle mě patří:
 
@@ -15,7 +15,7 @@ Lamborghini – extravagantní design a vysoký výkon.
 
 Každá značka má něco jedinečného.
 
-🔥 2. Nejzajímavější sportovní auta
+2. Nejzajímavější sportovní auta
 BMW M4 Competition
 
 Sportovní kupé s výkonným motorem, agresivním vzhledem a skvělými jízdními vlastnostmi.
@@ -28,7 +28,7 @@ Porsche 911
 
 Legendární sportovní vůz, který patří mezi nejznámější auta na světě.
 
-🖼️ 3. Automobilový svět
+3. Automobilový svět
 
 V této části bude obrázek sportovního automobilu.
 
@@ -36,7 +36,7 @@ V této části bude obrázek sportovního automobilu.
 
 Obrázek sportovního auta uložený ve složce images.
 
-⚙️ 4. Zajímavé informace o autech
+4. Zajímavé informace o autech
 První automobily byly poháněny parními nebo spalovacími motory.
 Moderní auta obsahují desítky elektronických systémů.
 Některé supersporty dokážou jet rychlostí přes 300 km/h.
@@ -50,7 +50,7 @@ Mercedes-AMG C 63 S	510 koní	250 km/h
 
 Údaje jsou orientační a mohou se lišit podle modelového roku a verze.
 
-💻 6. Jednoduchý program v Pythonu
+6. Jednoduchý program v Pythonu
 
 Pomocí Pythonu můžeme například zjistit, zda je automobil rychlejší než 200 km/h.
 
@@ -66,14 +66,14 @@ if maximalni_rychlost > 200:
 else:
     print("Toto auto je pomalejší.")
 
-☑️ 7. Můj automobilový To-Do list
+##7. Můj automobilový To-Do list
 Vybrat oblíbené automobilové značky.
 Napsat informace o sportovních autech.
 Vytvořit tabulku automobilů.
 Navštívit automobilovou výstavu.
 Vyzkoušet jízdu ve sportovním autě.
 Jednou vlastnit své vysněné auto.
-🔗 8. Užitečné odkazy
+8. Užitečné odkazy
 BMW – oficiální stránky
 Mercedes-Benz – oficiální stránky
 Porsche – oficiální stránky
