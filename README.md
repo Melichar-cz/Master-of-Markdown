@@ -28,7 +28,7 @@ Porsche 911 je jedno z nejznámějších sportovních aut na světě.
 
 ## 3. Obrázky automobilů
 
-![Sportovní automobil](images/auto.jpg)
+![Sportovní automobil](auto.jpg)
 
 Sportovní automobil s moderním designem.
 
