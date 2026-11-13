@@ -3,7 +3,7 @@
   "jmeno": "Martin",
   "vek": 17,
   "je_plnolety": false,
-  "poznamka": null,
+  "poznamka": "Rad sportuji",
   "adresa": {
     "mesto": "Praha",
     "ulice": "Ulicová"
@@ -12,5 +12,6 @@
     "fotbal",
     "hry",
     "auta"
-  ]
+  ],
+  "oblibene_cislo": 7
 }
