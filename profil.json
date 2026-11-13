@@ -1,0 +1,16 @@
+
+{
+  "jmeno": "Martin",
+  "vek": 17,
+  "je_plnolety": false,
+  "poznamka": null,
+  "adresa": {
+    "mesto": "Ostrava",
+    "ulice": "Hlavni"
+  },
+  "konicky": [
+    "fotbal",
+    "hry",
+    "auta"
+  ]
+}
